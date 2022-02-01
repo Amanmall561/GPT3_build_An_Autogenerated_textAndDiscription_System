@@ -20,4 +20,7 @@ Run the .py file
 
 Make change according you in css file for your template.
 
+
+![plot](./output.png)
+
 ![plot](./output.png)
