@@ -23,4 +23,4 @@ Make change according you in css file for your template.
 
 ![plot](./demo.png)
 
-![plot](./output.png)
+![plot](./output1.png)
