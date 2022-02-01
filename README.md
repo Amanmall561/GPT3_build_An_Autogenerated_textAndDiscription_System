@@ -15,6 +15,7 @@ Install streamlit for API (more about streamlit: https://streamlit.io/)
 % pip3 install streamlit
 
 Run the .py file
+Before run this file need to change the API key you have applied.
 
 % streamlit run Webtunix_Post_Generator.py
 
